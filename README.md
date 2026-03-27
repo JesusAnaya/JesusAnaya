@@ -50,9 +50,9 @@ and autonomous systems research.
 
 ## 🎓 Education
 
-- 🎓 **MSc Applied Artificial Intelligence** — Tecnológico de Monterrey *(2024–2026)*
-- 🎓 **MSc Computational Engineering & Mathematics / AI** — URV & UOC *(2021–2023)*
-- 🎓 **BEng Software Engineering** — Universidad Politécnica de Baja California *(2010–2015)*
+- 🎓 **MSc in Applied Artificial Intelligence** — Tecnológico de Monterrey *(2024–2026)*
+- 🎓 **MSc in Computational Engineering & Mathematics / AI** — URV & UOC *(2021–2023)*
+- 🎓 **BEng in Software Engineering** — Universidad Politécnica de Baja California *(2010–2015)*
 
 ---
 
