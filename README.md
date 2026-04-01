@@ -12,8 +12,7 @@ and autonomous systems research.
 
 - 🚗 Computer vision & deep learning models for **autonomous driving (ADAS)**
 - 🧠 Research on **lane/path geometry modeling** and perception pipelines
-- 🤝 Volunteer contributor to [**CARLA Simulator**](https://github.com/carla-simulator/carla) —
-  helping maintain the project and fix bugs
+- 🤝 Volunteer OpenSource contributor, helping to maintain some projects and fixing bugs
 
 ---
 
@@ -37,14 +36,6 @@ and autonomous systems research.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 🤝 Open Source
-
-- 🚙 [**CARLA Simulator**](https://github.com/carla-simulator/carla) — Volunteer contributor.
-  Helping keep the project up to date and resolving bugs to support the autonomous driving
-  research community.
 
 ---
 
