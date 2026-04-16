@@ -40,7 +40,7 @@ and autonomous systems research.
 **Robotics**
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-<span style="display:inline-flex;align-items:center;background-color:#ffffff;border:1px solid #30363d;border-radius:4px;padding:4px 8px;gap:6px;vertical-align:middle;"><img src="https://avatars.githubusercontent.com/u/33029185?s=200&v=4" width="16" height="16" style="display:inline-block;vertical-align:middle;" /><span style="font-size:12px;font-family:DejaVu Sans,verdana,Geneva,sans-serif;color:#24292f;vertical-align:middle;">CARLA</span></span>
+![CARLA](carla-badge.svg)
 ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 

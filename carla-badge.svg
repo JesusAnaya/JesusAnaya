@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="20" role="img" aria-label="CARLA">
+  <title>CARLA</title>
+  <rect x="0.5" y="0.5" width="67" height="19" rx="3" fill="#ffffff" stroke="#30363d" stroke-width="1"/>
+  <image x="5" y="4" width="12" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiElEQVR4nIzSy6uNYRgF8N/ePtczQClF2nYuyUjhlJmBSJkYKpKBFGVoYKJMlExEysgl8g8wkDKQpMRAZMRX5LjkHsfd0Vtrn46db7Mn+/3e91mr9ay12nVdG/BbjlVNjwXbHgBuYSZ+YVrT0CCCYdzCHaxsGqoa7jdhGy7hPbagi3P/o2A/ZmMH7uEJduMtjvxLwQY8w3VsxVpMxQ1cxpUQnxpH9KVwPICd+BKyhxjDPszFiYnYfgXfsQyr8THnT5FeUpmH1xjK/R8elPOUDLYTXyH8iXcBtKJmxt9MHM7jA9yOkXcT44F8P8csLO2BWmWPbrdbCrOgrIXF+Iz12JgSXcVFfJtA8rWu65GeBytwM+eS/zWcj/tjAS3CduzFCNaU/x7BCyzJ+XSadwiv4sUc3MfREMnbeAplaHqqOz9qzsSXoSgqKz7O7EJM6hEU9mMpSmnehey6C4cxmvjWYU+SOJvVNldVVY12Op0P8UEq+ybmPcLTxFh8OImDeIkfVVVN/h0AAP//l+VquSodCfoAAAAASUVORK5CYII="/>
+  <text x="22" y="14" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11" fill="#24292f">CARLA</text>
+</svg>
